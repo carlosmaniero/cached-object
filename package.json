@@ -1,0 +1,18 @@
+{
+  "name" : "cached-object",
+  "description" : "Javascript Memory Cache",
+  "author" : "Carlos Maniero <carlosmaniero@gmail.com>",
+  "url" : "https://github.com/carlosmaniero/cached-object",
+  "keywords" : [
+    "cache",
+    "object",
+    "ram",
+    "storage"
+  ],
+  "main" : "./index.js",
+  "version" : "0.0.1",
+  "repository" : { 
+    "type" : "git", 
+    "url" : "git://github.com/carlosmaniero/cached-object.git"
+  }
+}
